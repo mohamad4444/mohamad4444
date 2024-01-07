@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammad Mahamid
 =================================
 
-Ambition Student
+Ambitious Student
 ----------------
 
 I have been coding since i was 16, always keep learning new stuff and doing new projects
