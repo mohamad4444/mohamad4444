@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohammad
+Hi 👋 My name is Mohammad Mahamid
 =================================
 
 Ambitious Student
