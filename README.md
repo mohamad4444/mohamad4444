@@ -6,7 +6,7 @@ Ambitious Student
 
 I have been coding since i was 16, always keep learning new stuff and doing new projects
 * 🧠  I'm learning React and Spring boot
-* 🤝  I'm open to collaborating on FrontEnd, Backend, Fullstack
+* 🤝  I'm open to collaborating on Backend, Fullstack
 
 ### Skills
 
@@ -15,10 +15,9 @@ I have been coding since i was 16, always keep learning new stuff and doing new 
 
 ### Interests
 I'm passionate about:
-
-    - DevOps: Automating deployment pipelines and infrastructure management.
-    - Backend Development: Exploring server-side technologies and frameworks like Spring Boot.
-    - Cloud Native Technologies: Learning to deploy and scale applications on cloud platforms like AWS and Azure.
+- DevOps: Automating deployment pipelines and infrastructure management.
+- Backend Development: Exploring server-side technologies and frameworks like Spring Boot.
+- Cloud Native Technologies: Learning to deploy and scale applications on cloud platforms.
 
 ### Socials
 
