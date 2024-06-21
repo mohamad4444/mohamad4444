@@ -6,7 +6,7 @@ Ambitious Student
 
 I have been coding since i was 16, always keep learning new stuff and doing new projects
 * 🧠  I'm learning React and Spring boot
-* 🤝  I'm open to collaborating on Backend, Fullstack
+* 🤝  I'm open to collaborating on Backend, Fullstack, Frondend
 
 ### Skills
 
