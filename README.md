@@ -19,6 +19,21 @@ I'm passionate about:
 - Backend Development: Exploring server-side technologies and frameworks like Spring Boot.
 - Cloud Native Technologies: Learning to deploy and scale applications on cloud platforms.
 
+### Projects
+
+Selected repositories (source code only — no live demos):
+
+- [Cloud Native Purchase System](https://github.com/mohamad4444/cloud-native-purchase-system) — Kubernetes/Helm microservices with observability.
+- [Ansible Infrastructure](https://github.com/mohamad4444/ansible) — VPS provisioning, SSH, firewall, Caddy, and NetBird automation.
+- [Kubernetes Certificate Authority](https://github.com/mohamad4444/k8s-certificate-authority) — cert-manager based custom CA.
+- [Terraform AWS Web App Lab](https://github.com/mohamad4444/terraform-aws-webapp-lab) — EC2, ALB, RDS and S3 infrastructure as code.
+- [Spring Boot 6 Learning Template](https://github.com/mohamad4444/spring6-learning-template) — Spring Boot 3.5 / Spring Framework 6 examples.
+- [Python TOTP Manager](https://github.com/mohamad4444/python-totp-manager) — CLI TOTP generator with an external vault file.
+- [Linux System Automation](https://github.com/mohamad4444/linux-system-automation) — administration scripts and infrastructure tooling.
+- [Java Annotation Processor](https://github.com/mohamad4444/java-annotation-processor) — generates database access classes from DTOs.
+- [DSA Practice Problems](https://github.com/mohamad4444/dsa-practice-problems) — algorithms and data structures solutions.
+- [Portfolio Website](https://github.com/mohamad4444/portfolio-website) — the React/TypeScript site you are reading about.
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mohamad4444" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
